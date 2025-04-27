@@ -1,6 +1,3 @@
-# rock-paper-scissor-python
-Simple terminal-based Rock, Paper, Scissors game written in Python
-
 # 🎮 Rock Paper Scissors – Python Game
 
 This is a simple terminal-based **Rock, Paper, Scissors** game written in Python.  
